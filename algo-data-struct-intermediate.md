@@ -17,3 +17,10 @@
 - [Get sum of 6 best results: Collections](https://www.codewars.com/kata/climbers-rankings/javascript)
 - [Get the highest value of consonant in a string](https://www.codewars.com/kata/consonant-value/javascript)
 - [Sort and distribute server workload: Arrays](https://www.codewars.com/kata/distribute-server-workload/javascript)
+
+## Other lists of katas
+
+- [Intermediate Training on Codewars](https://www.codewars.com/collections/intermediate-training)
+- [Intermediate Collection on Codewars](https://www.codewars.com/collections/intermediate)
+- [Practising Algorithms on Codility](https://app.codility.com/programmers/lessons/)
+- [Data structures: Linked List on Codewars](https://www.codewars.com/collections/fun-with-lists)
