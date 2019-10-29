@@ -38,3 +38,7 @@ Solutions to Katas could be different because of different approaches (recursion
 
 - [Beginner Level](algo-data-struct-beginner.md)
 - [Intermediate Level](algo-data-struct-intermediate.md)
+
+### Programming Paradigms
+
+- [Object-Orientated Programming](object-orientated-programming.md)
