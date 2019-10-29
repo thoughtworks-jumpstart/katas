@@ -2,11 +2,15 @@
 
 ## Instructions
 
+### Intro
+
+Katas are used in Karate as exercises to practice and internalise the moves. Similarly, we need to practice our software development skills with artifical problems without facing the pressure of a production environment.
+
 ### Work in pairs
 
-Writing code is a very collaborative process. Learn to work with others. 
+Writing code is a very collaborative process. Learn to work with others.
 
-Find a pair and work with them to solve the problem. Think about the problem together and work out what tests you should write. 
+Find a pair and work with them to solve the problem. Think about the problem together and work out what tests you should write.
 
 ### Red, Green, Refactor Approach
 
@@ -14,17 +18,23 @@ We recommend adopting <b>ping pong</b> pair programming and <b>test driven devel
 
 ### Seeking help
 
-If you are stuck, you should first seek help from your pair. Discuss the problem and the possible solutions together. 
+If you are stuck, you should first seek help from your pair. Discuss the problem and the possible solutions together.
 
-We also encourage you to refer to documentation (e.g. MDN) to learn how certain JavaScript APIs can be used (e.g. `Array.prototype.map` or `Array.prototype.filter`). 
+We also encourage you to refer to documentation (e.g. MDN) to learn how certain JavaScript APIs can be used (e.g. `Array.prototype.map` or `Array.prototype.filter`).
 
 Feel free to approach your instructors if you are still stuck.
 
-However, we caution against searching for complete solutions to the problems online. The purpose of these exercises is to hone your software development skills, and copying code does not help you in the long run. 
+However, we caution against searching for complete solutions to the problems online. The purpose of these exercises is to hone your software development skills, and copying code does not help you in the long run.
 
 ## Lists of Katas
 
+Solutions to Katas could be different because of different approaches (recursion vs iterative) or different goals (readability vs runtime efficiency)
+
 ### Javascript Core APIs
+
 - [Training JS Collection](https://www.codewars.com/collections/training-js-1)
+
 ### Algorithms and Data Structures
+
 - [Beginner Level](algo-data-struct-beginner.md)
+- [Intermediate Level](algo-data-struct-intermediate.md)
