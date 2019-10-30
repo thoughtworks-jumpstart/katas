@@ -2,6 +2,7 @@
 
 ## Intermediate level
 
+- [Queue, Stack, Linked List, Binary Search](https://github.com/thoughtworks-jumpstart/data-structure-algo-katas)
 - [Sum of a sequence of integers](https://www.codewars.com/kata/sum-of-a-sequence/javascript)
 - [Sum of what each beggar brings home assuming regular turns: Arrays](https://www.codewars.com/kata/english-beggars/javascript)
 - [Get the middle character(s) of a word](https://www.codewars.com/kata/get-the-middle-character/javascript)

@@ -42,3 +42,8 @@ Solutions to Katas could be different because of different approaches (recursion
 ### Programming Paradigms
 
 - [Object-Orientated Programming](object-orientated-programming.md)
+
+### Best Practices
+
+-  [Test-Driven Development](test-driven-development.md)
+-  [Refactoring](refactoring.md)
