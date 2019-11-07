@@ -8,7 +8,10 @@
 - [Maximum product of adjacent numbers](https://www.codewars.com/kata/maximum-product/javascript)
 - [Filtering out strings in an array](https://www.codewars.com/kata/list-filtering/javascript)
 - [Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript)
+- [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [Fizz Buzz in too much detail](https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/)
 
 ## Other lists of katas
+
 - [Fun Javascript Practice on Codewars](https://www.codewars.com/collections/fun-javascript-practice)
 - [Beginner level katas on Codewars](https://www.codewars.com/collections/beginners)
