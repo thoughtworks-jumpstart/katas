@@ -38,6 +38,7 @@ Solutions to Katas could be different because of different approaches (recursion
 
 - [Beginner Level](algo-data-struct-beginner.md)
 - [Intermediate Level](algo-data-struct-intermediate.md)
+- [Common Technical Interview Questions](technical-interviews.md)
 
 ### Programming Paradigms
 
@@ -45,5 +46,5 @@ Solutions to Katas could be different because of different approaches (recursion
 
 ### Best Practices
 
--  [Test-Driven Development](test-driven-development.md)
--  [Refactoring](refactoring.md)
+- [Test-Driven Development](test-driven-development.md)
+- [Refactoring](refactoring.md)
