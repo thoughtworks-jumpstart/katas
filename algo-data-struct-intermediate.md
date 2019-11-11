@@ -25,3 +25,4 @@
 - [Intermediate Collection on Codewars](https://www.codewars.com/collections/intermediate)
 - [Practising Algorithms on Codility](https://app.codility.com/programmers/lessons/)
 - [Data structures: Linked List on Codewars](https://www.codewars.com/collections/fun-with-lists)
+- [Algorithms Warmup on HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup)
