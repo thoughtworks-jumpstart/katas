@@ -27,6 +27,7 @@ What are the pros and cons of the solutions?
 
 ### Others
 
+- [Counting duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/javascript)
 - [Sum of all positive numbers in an array](https://www.codewars.com/kata/sum-of-positive/javascript)
 - [Sum without highest and lowest number](https://www.codewars.com/kata/sum-without-highest-and-lowest-number/javascript)
 - [Find the smallest integer in the array](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array/javascript)
